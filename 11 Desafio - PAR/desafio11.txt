@@ -1,0 +1,2 @@
+crie um programa que seja capaz de percorrer uma lista de numeros e imprima 
+cara numero par encontrado.

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Calculadora de Média</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="box">
+      <h1>Preencha os campos abaixo</h1>
+      <label> Aluno : 
+        <input type="text" id="aluno" placeholder="Nome do Aluno">
+      </label>
+      <label> 1º Nota :      
+        <input type="number" id="n1" placeholder="Digite a 1º Nota">
+      </label>
+      <label> 2º Nota : 
+        <input type="number" id="n2" placeholder="Digite a 2º Nota">
+      </label>
+      <label> 3º Nota :
+        <input type="number" id="n3" placeholder="Digite a 3º Nota">
+      </label>
+      
+      <button onclick="pegarValores()">Calcular média</button>
+      <h1 id="meuAluno"></h1>
+      <h1 id="mediaAluno"></h1>
+    </div>
+  </div>
+
+  <script src="resolucao_desafio3.js"></script>
+</body>
+
+</html>
+

@@ -1,0 +1,11 @@
+faça um programa que receba N (quantidade de números e seus respectivos 
+valores), imprima:
+- maior número par.
+- menor número impar.
+
+exemplo:
+entrada: 5,3,4,1,10,8
+
+saida:
+maior número par: 10
+menor número impar: 1

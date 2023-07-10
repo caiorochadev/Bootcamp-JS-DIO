@@ -1,0 +1,6 @@
+Crie uma classe para representar pessoas.
+para cada pessoa teremos os atributos nome,peso e altura.
+as pessoas devem ter a capacidade de dizer o valor do seu imc
+imc = peso / (altura *altura)
+instancie uma pessoa chamada josé que tenha 70kg de peso e 1,75 de altura
+e peça para josé dizer o valor do seu imc.
